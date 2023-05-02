@@ -6,10 +6,10 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
-# ゲストのくまちゃんです
+# くまちゃんです
 ![](images/くまちゃん.jpg)
 
 ### このブログを始めるに当たって躓いた箇所 
-githubでブログを始める際には、リポジトリの名前は必ず、<username>.github.ioので名前をつけること！
+githubでブログを始める際には、リポジトリの名前は必ず、*username*.github.ioので名前をつけること！
 _config.ymlの"github_username:"には必ず、githubのユーザーIDをつけること！
   
