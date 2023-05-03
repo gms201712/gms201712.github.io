@@ -13,3 +13,4 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
   githubでブログを始める際には、リポジトリの名前は必ず、*username*.github.ioで名前をつけること！  
   _config.ymlの"github_username:"には必ず、githubのユーザーIDをつけること！
   
+ 
